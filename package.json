@@ -1,8 +1,13 @@
 {
-  "name": "LDCA-UDG-05",
+  "name": "ldca-udg-05",
   "version": "1.0.0",
-  "description": "Un chat con node.js y uso de sockets",
+  "description": "Chat con nodejs y socketio",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/Castolo-10/LDCA-UDG-05.git"
   },
-  "author": "Castolo-10",
+  "keywords": [
+    "chat"
+  ],
+  "author": "Daniel Castolo",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "bugs": {
+    "url": "https://github.com/Castolo-10/LDCA-UDG-05/issues"
+  },
+  "homepage": "https://github.com/Castolo-10/LDCA-UDG-05#readme"
 }
