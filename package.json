@@ -1,0 +1,18 @@
+{
+  "name": "websockets-playlist",
+  "version": "1.0.0",
+  "description": "Un chat con node.js y uso de sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Castolo-10/LDCA-UDG-05.git",
+  },
+  "author": "Castolo-10",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+  },
+}
