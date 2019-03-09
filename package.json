@@ -22,7 +22,8 @@
   "author": "Daniel Castolo",
   "license": "MIT",
   "engines": {
-    "node": "8.11.4"
+    "node": "8.11.4",
+    "npm": "6.8.0"
   },
   "bugs": {
     "url": "https://github.com/Castolo-10/LDCA-UDG-05/issues"
