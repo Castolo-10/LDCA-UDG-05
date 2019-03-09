@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "https://github.com/Castolo-10/LDCA-UDG-05.git"
   },
   "repository": {
     "type": "git",
