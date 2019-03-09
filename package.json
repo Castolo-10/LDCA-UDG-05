@@ -9,9 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "https://github.com/Castolo-10/LDCA-UDG-05.git",
-    "web": "node index.js",
-    "build": "npm run build"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
