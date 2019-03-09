@@ -10,7 +10,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "https://github.com/Castolo-10/LDCA-UDG-05.git",
-    "start": "node index.js"
+    "start": "node index.js",
+    "web": "npm start"
   },
   "repository": {
     "type": "git",
